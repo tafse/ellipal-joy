@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.shopify.com/s/files/1/0031/5765/5641/files/ee380120_150x.png?v=1631347223" width="250" height="100" />
+  <img src="asset/ellipal.png" width="250" height="100" />
 </div> 
   <hr height="0.5px" />
 
@@ -7,7 +7,7 @@
 
 ​    	ELLIPAL Joy is a device that generates random mnemonic phrases. ELLIPAL Joy strictly follows the [BIP39 standard mnemonic phrase](https://www.ellipal.com/blogs/support/mnemonic-generation) and allows users to generate 12/15/18/21/24-word mnemonic phrases. It is compatible with most hardware wallets and hot wallets on the market, such as Trezor wallet and Trust wallet.
 
-![ellipal-joy](https://i.shgcdn.com/fdce86ef-d924-4c01-9fe4-55ff74534229/-/format/auto/-/preview/3000x3000/-/quality/lighter/)
+![ellipal-joy](asset/ellipal-joy.png)
 
 
 
