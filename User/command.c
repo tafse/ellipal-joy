@@ -197,7 +197,6 @@ static void CommandSystem(int argc, char *argv[]) {
 		DBG_LOG("System will Reset.");
 		HAL_NVIC_SystemReset();
 	} else if (ARGV_EQUAL("version")) {
-		DBG_LOG("Firmware version:%s", VERSION
-			);
-		}
+		DBG_LOG("Firmware version:%s", VERSION);
 	}
+}
